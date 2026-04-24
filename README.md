@@ -1,7 +1,7 @@
 # sevdeturaan
 👋 Selam, Ben!
 🚀 Hakkımda
-Ben yazılım dünyasının uçsuz bucaksız vadilerinde kendi yolunu arayan bir Yazılım Mühendisliği öğrencisiyim. Şu an tek bir alana takılıp kalmak yerine; backend'den yapay zekaya, veri biliminden web teknolojilerine kadar her şeyi koklayarak en verimli çözümleri üretmeyi öğreniyorum.
+Ben yazılım dünyasının uçsuz bucaksız vadilerinde kendi yolunu arayan bir Bilgisayar Mühendisliği öğrencisiyim. Şu an tek bir alana takılıp kalmak yerine; backend'den yapay zekaya, veri biliminden web teknolojilerine kadar her şeyi koklayarak en verimli çözümleri üretmeyi öğreniyorum.
 
 🔍 Neye Odaklanıyorum: Algoritma mantığı, temiz kod (clean code) ve sistemlerin nasıl çalıştığını anlamak.
 
