@@ -1,5 +1,5 @@
 # sevdeturaan
-👋 Selam, Sevde!
+👋 Selam, ben Sevde!
 🚀 
 Ben yazılım dünyasının uçsuz bucaksız vadilerinde kendi yolunu arayan bir Bilgisayar Mühendisliği öğrencisiyim. Şu an tek bir alana takılıp kalmak yerine; backend'den yapay zekaya, veri biliminden web teknolojilerine kadar her şeyi koklayarak en verimli çözümleri üretmeyi öğreniyorum.
 
